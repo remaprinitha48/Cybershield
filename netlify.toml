@@ -1,0 +1,4 @@
+[build]
+  base = "cybershield-app"
+  command = "npm run build"
+  publish = ".next"
